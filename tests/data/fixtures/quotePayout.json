@@ -1,0 +1,18 @@
+{
+  "quote": {
+    "chain": "tron",
+    "asset": "USDT",
+    "decimals": 6,
+    "amount": "10",
+    "address": "TgPbtPLm5YYbY6PGRCffLPJmEYHPvsX5fQ",
+    "address_id": "e3ad242a-57f9-420f-9477-9099b0439538",
+    "recipients": [
+      {
+        "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+        "percent": "100",
+        "requested": null,
+        "amount": "8.011"
+      }
+    ]
+  }
+}

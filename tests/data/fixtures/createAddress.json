@@ -1,0 +1,17 @@
+{
+  "address": {
+    "id": "89e4b12f-3132-4fad-843c-d863c46df944",
+    "chain": "tron",
+    "address": "Te11vy1QaWVjM3XWVQxCNkDWCGUceHqmyT",
+    "reference": "fixture-node-18-mvtbd0ie",
+    "payout": [
+      {
+        "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+        "percent": "100"
+      }
+    ],
+    "pay_url": "http://localhost:5173/pay/e5ur-hxrp-samp",
+    "invoice_id": null,
+    "created_at": "2026-10-29T09:04:57.925Z"
+  }
+}

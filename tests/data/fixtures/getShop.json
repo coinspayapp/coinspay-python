@@ -1,0 +1,11 @@
+{
+  "shop": {
+    "id": "4ddedc85-c4a3-418b-9810-7fe2be7bcb5e",
+    "name": "SDK node",
+    "created_at": "2026-10-29T08:22:15.502Z"
+  },
+  "key": {
+    "test": false,
+    "access": "full"
+  }
+}

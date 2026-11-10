@@ -1,0 +1,30 @@
+{
+  "addresses": [
+    {
+      "id": "89e4b12f-3132-4fad-843c-d863c46df944",
+      "chain": "tron",
+      "address": "Te11vy1QaWVjM3XWVQxCNkDWCGUceHqmyT",
+      "reference": "fixture-node-18-mvtbd0ie",
+      "payout": [
+        {
+          "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+          "percent": "100"
+        }
+      ],
+      "pay_url": "http://localhost:5173/pay/e5ur-hxrp-samp",
+      "invoice_id": null,
+      "created_at": "2026-10-29T09:04:57.925Z"
+    },
+    {
+      "id": "1e2a61aa-e635-429e-a4b4-c34e139569e7",
+      "chain": "tron",
+      "address": "TdvN5M4aP56kPZfGiYWcmfQiG4g8b6GSgh",
+      "reference": "e2e-node-latest-mvtbd0ie",
+      "payout": null,
+      "pay_url": "http://localhost:5173/pay/xwyj-p6mu-s7va",
+      "invoice_id": null,
+      "created_at": "2026-10-29T09:01:05.035Z"
+    }
+  ],
+  "next_cursor": "1e2a61aa-e635-429e-a4b4-c34e139569e7"
+}

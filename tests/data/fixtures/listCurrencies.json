@@ -1,0 +1,78 @@
+{
+  "fiat": [
+    {
+      "code": "USD",
+      "symbol": "$",
+      "scale": 2
+    },
+    {
+      "code": "EUR",
+      "symbol": "€",
+      "scale": 2
+    },
+    {
+      "code": "GBP",
+      "symbol": "£",
+      "scale": 2
+    },
+    {
+      "code": "AED",
+      "symbol": "د.إ",
+      "scale": 2
+    },
+    {
+      "code": "CNY",
+      "symbol": "¥",
+      "scale": 2
+    },
+    {
+      "code": "JPY",
+      "symbol": "¥",
+      "scale": 0
+    },
+    {
+      "code": "RUB",
+      "symbol": "₽",
+      "scale": 2
+    },
+    {
+      "code": "TRY",
+      "symbol": "₺",
+      "scale": 2
+    }
+  ],
+  "crypto": [
+    {
+      "code": "BNB",
+      "scale": 8
+    },
+    {
+      "code": "BTC",
+      "scale": 8
+    },
+    {
+      "code": "ETH",
+      "scale": 8
+    },
+    {
+      "code": "LTC",
+      "scale": 8
+    },
+    {
+      "code": "SOL",
+      "scale": 8
+    },
+    {
+      "code": "TRX",
+      "scale": 6
+    },
+    {
+      "code": "USDC",
+      "scale": 6
+    },
+    {
+      "code": "USDT",
+      "scale": 6
+    }
+  ]
+}

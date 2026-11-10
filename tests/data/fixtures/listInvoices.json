@@ -1,0 +1,49 @@
+{
+  "invoices": [
+    {
+      "id": "e51f0a43-2bb4-4a1d-a4aa-e0d220e27de1",
+      "number": 15,
+      "title": null,
+      "shop_id": "4ddedc85-c4a3-418b-9810-7fe2be7bcb5e",
+      "test": true,
+      "status": "open",
+      "currency": "USD",
+      "currency_kind": "fiat",
+      "amount": "49.9",
+      "amount_paid": "0",
+      "amount_pending": "0",
+      "amount_due": "49.9",
+      "amount_overpaid": null,
+      "reference": "fixture-node-18-mvtbd0ie",
+      "pay_url": "http://localhost:5173/pay/8fg5-8zuj-ctck",
+      "paid_late": false,
+      "paid_manually": false,
+      "expires_at": "2026-10-30T09:04:57.901Z",
+      "paid_at": null,
+      "created_at": "2026-10-29T09:04:57.901Z"
+    },
+    {
+      "id": "02fafa3f-e6ed-4c08-affb-3fbbeba86fe5",
+      "number": 14,
+      "title": null,
+      "shop_id": "4ddedc85-c4a3-418b-9810-7fe2be7bcb5e",
+      "test": true,
+      "status": "cancelled",
+      "currency": "USD",
+      "currency_kind": "fiat",
+      "amount": "1",
+      "amount_paid": "0",
+      "amount_pending": "0",
+      "amount_due": "1",
+      "amount_overpaid": null,
+      "reference": "cancel-node-latest-mvtbd0ie",
+      "pay_url": "http://localhost:5173/pay/9pag-refs-fb4e",
+      "paid_late": false,
+      "paid_manually": false,
+      "expires_at": "2026-10-30T09:01:46.684Z",
+      "paid_at": null,
+      "created_at": "2026-10-29T09:01:46.684Z"
+    }
+  ],
+  "next_cursor": "02fafa3f-e6ed-4c08-affb-3fbbeba86fe5"
+}

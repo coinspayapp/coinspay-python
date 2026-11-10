@@ -1,0 +1,161 @@
+{
+  "network_mode": "testnet",
+  "chains": [
+    {
+      "id": "ethereum",
+      "name": "Ethereum Sepolia",
+      "family": "evm",
+      "native_symbol": "ETH",
+      "confirmations": 3,
+      "block_time_ms": 12000,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "ETH",
+          "decimals": 18,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "0.002"
+        },
+        {
+          "symbol": "USDC",
+          "decimals": 6,
+          "native": false,
+          "contract": "0x1c7d4b196cb0c7b01d743fbc6116a902379c7238",
+          "stablecoin": true,
+          "enabled": true,
+          "payout_minimum": "5"
+        }
+      ]
+    },
+    {
+      "id": "tron",
+      "name": "TRON Nile",
+      "family": "tron",
+      "native_symbol": "TRX",
+      "confirmations": 5,
+      "block_time_ms": 3000,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "TRX",
+          "decimals": 6,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "15"
+        },
+        {
+          "symbol": "USDT",
+          "decimals": 6,
+          "native": false,
+          "contract": "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
+          "stablecoin": true,
+          "enabled": true,
+          "payout_minimum": "10"
+        }
+      ]
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin Signet",
+      "family": "bitcoin",
+      "native_symbol": "BTC",
+      "confirmations": 2,
+      "block_time_ms": 600000,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "BTC",
+          "decimals": 8,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "0.00008"
+        }
+      ]
+    },
+    {
+      "id": "litecoin",
+      "name": "Litecoin Testnet",
+      "family": "litecoin",
+      "native_symbol": "LTC",
+      "confirmations": 2,
+      "block_time_ms": 150000,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "LTC",
+          "decimals": 8,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "0.04"
+        }
+      ]
+    },
+    {
+      "id": "bsc",
+      "name": "BSC Testnet",
+      "family": "evm",
+      "native_symbol": "BNB",
+      "confirmations": 3,
+      "block_time_ms": 3000,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "BNB",
+          "decimals": 18,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "0.003"
+        },
+        {
+          "symbol": "USDT",
+          "decimals": 18,
+          "native": false,
+          "contract": "0x337610d27c682e347c9cd60bd4b3b107c9d34ddd",
+          "stablecoin": true,
+          "enabled": true,
+          "payout_minimum": "2"
+        }
+      ]
+    },
+    {
+      "id": "solana",
+      "name": "Solana Devnet",
+      "family": "solana",
+      "native_symbol": "SOL",
+      "confirmations": 1,
+      "block_time_ms": 240,
+      "enabled": true,
+      "assets": [
+        {
+          "symbol": "SOL",
+          "decimals": 9,
+          "native": true,
+          "contract": null,
+          "stablecoin": false,
+          "enabled": true,
+          "payout_minimum": "0.02"
+        },
+        {
+          "symbol": "USDC",
+          "decimals": 6,
+          "native": false,
+          "contract": "4zMMC9srt5Ri5X14GAgXhaHii3GnPAEERYPJgZJDncDU",
+          "stablecoin": true,
+          "enabled": true,
+          "payout_minimum": "2"
+        }
+      ]
+    }
+  ]
+}

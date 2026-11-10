@@ -1,0 +1,30 @@
+{
+  "payout": {
+    "id": "dafea02e-f460-4793-981a-0ff021e1960c",
+    "status": "confirmed",
+    "origin": "api",
+    "chain": "tron",
+    "asset": "USDT",
+    "decimals": 6,
+    "amount": "10",
+    "amount_base": "10000000",
+    "address": "TgPbtPLm5YYbY6PGRCffLPJmEYHPvsX5fQ",
+    "address_id": "e3ad242a-57f9-420f-9477-9099b0439538",
+    "deposit_id": null,
+    "recipients": [
+      {
+        "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+        "percent": "100",
+        "requested": null,
+        "amount": "8.011",
+        "sent": "8.011",
+        "tx_hash": "93f4e8d650dbbc75441d7bc83b9c5529b676f2b3cfc465e41e9113c29daf23c5",
+        "status": "confirmed"
+      }
+    ],
+    "created_at": "2026-10-29T09:01:22.685Z",
+    "submitted_at": "2026-10-29T09:01:22.691Z",
+    "completed_at": "2026-10-29T09:01:32.750Z",
+    "error": null
+  }
+}

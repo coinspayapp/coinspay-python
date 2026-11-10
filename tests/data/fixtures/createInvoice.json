@@ -1,0 +1,43 @@
+{
+  "invoice": {
+    "id": "e51f0a43-2bb4-4a1d-a4aa-e0d220e27de1",
+    "number": 15,
+    "title": null,
+    "shop_id": "4ddedc85-c4a3-418b-9810-7fe2be7bcb5e",
+    "test": true,
+    "status": "open",
+    "currency": "USD",
+    "currency_kind": "fiat",
+    "amount": "49.9",
+    "amount_paid": "0",
+    "amount_pending": "0",
+    "amount_due": "49.9",
+    "amount_overpaid": null,
+    "reference": "fixture-node-18-mvtbd0ie",
+    "pay_url": "http://localhost:5173/pay/8fg5-8zuj-ctck",
+    "paid_late": false,
+    "paid_manually": false,
+    "expires_at": "2026-10-30T09:04:57.901Z",
+    "paid_at": null,
+    "created_at": "2026-10-29T09:04:57.901Z",
+    "items": [
+      {
+        "name": "Consulting",
+        "quantity": "2",
+        "unit": "h",
+        "price": "24.95",
+        "amount": "49.9"
+      }
+    ],
+    "pay_options": null,
+    "buyer_pays_fee": false,
+    "buyer_pays_network": false,
+    "description": null,
+    "return_url": "https://shop.example/orders/1042",
+    "auto_return": false,
+    "origin": "api",
+    "expired_at": null,
+    "cancelled_at": null,
+    "payments": []
+  }
+}

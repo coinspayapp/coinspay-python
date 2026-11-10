@@ -1,0 +1,12 @@
+{
+  "balances": [
+    {
+      "chain": "tron",
+      "asset": "USDT",
+      "decimals": 6,
+      "confirmed": "220",
+      "pending": "0",
+      "seen": "0"
+    }
+  ]
+}
