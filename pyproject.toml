@@ -18,6 +18,13 @@ classifiers = [
     "Typing :: Typed",
 ]
 
+[project.urls]
+Homepage = "https://coinspay.app"
+Documentation = "https://coinspay.app/docs"
+Source = "https://github.com/coinspayapp/coinspay-python"
+Issues = "https://github.com/coinspayapp/coinspay-python/issues"
+Changelog = "https://github.com/coinspayapp/coinspay-python/blob/main/CHANGELOG.md"
+
 [tool.setuptools.packages.find]
 where = ["src"]
 
